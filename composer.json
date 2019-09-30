@@ -1,0 +1,16 @@
+{
+    "name": "evilwolf/otus-email-validator",
+    "description": "Email validator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya Bogatov",
+            "email": "wolfofdeath@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.1"
+    }
+}
